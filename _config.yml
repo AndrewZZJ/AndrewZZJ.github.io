@@ -1,13 +1,16 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+# main reference: https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html
+# Appreciate for this simple template for my first git page!
+title: "Journey to the West"
+author: "Andrew J."
+description: "A blog about an entry-level software engineer." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+
+#email: "example@mail.com"
+#twitter_username: "twitteruser"
+github_username: "AndrewZZJ"
+linkedin_username: "zhizhanjiang"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
