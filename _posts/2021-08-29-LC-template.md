@@ -1,4 +1,4 @@
-## LeetCode log, entry 0100
+## LeetCode template log, entry xxxx
 
 ### Question description
 
